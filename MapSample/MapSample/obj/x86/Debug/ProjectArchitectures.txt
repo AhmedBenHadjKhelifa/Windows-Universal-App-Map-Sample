@@ -1,0 +1,1 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\MapSample\MapSample\MapSample.csproj;x86
